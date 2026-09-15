@@ -27,7 +27,7 @@ app.add_middleware(
 )
 
 LANGFLOW_URL = "http://127.0.0.1:7860/api/v1/run/0006294e-0b61-4f5b-bdb2-1225bee32b74?stream=false"
-LANGFLOW_API_KEY = "sk-kmp-eOM6ZNS-STp6gIjdcCyt-Gh2-ZSPcN8dG4ZvUAc"
+LANGFLOW_API_KEY = "YOUR_LANGFLOW_API_KEY"
 
 # Cache di memori untuk pendaftaran instan
 REGISTERED_USERS: Dict[str, dict] = {}  
