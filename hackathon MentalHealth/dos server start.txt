@@ -1,0 +1,6 @@
+ollama run llama3
+
+langflow run
+
+cd C:\Users\Admin\Documents\hackathon MentalHealth
+py -m uvicorn server_lokal:app --host 0.0.0.0 --port 8000 --reload
