@@ -1,4 +1,4 @@
-# 🧠 Worker Stress Early Warning System
+# 🧠 Worker Stress Early Warning System (WOSWAS)
 
 > **"A worker doesn't always need someone to tell them they're weak. Sometimes, they just need a system that reminds them they've been strong for too long."**
 
