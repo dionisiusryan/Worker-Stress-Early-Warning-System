@@ -132,3 +132,6 @@ Proyek ini mendukung model **B2C** dan **B2B** sekaligus:
 ## 📄 Lisensi
 
 Proyek ini dikembangkan untuk keperluan Hackathon Hactiv8 x IBM.
+
+## APK & Demo Video
+https://drive.google.com/drive/folders/1tG4IclGNoj9BBodQVQRdqTbDZ-Xi3tZT?usp=sharing
