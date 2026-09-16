@@ -135,3 +135,20 @@ Proyek ini dikembangkan untuk keperluan Hackathon Hactiv8 x IBM.
 
 ## APK & Demo Video
 https://drive.google.com/drive/folders/1tG4IclGNoj9BBodQVQRdqTbDZ-Xi3tZT?usp=sharing
+
+## Screenshoot Project
+
+
+
+
+
+
+
+<img width="216" height="420" alt="01-Dashboard-AI-Recomendation" src="https://github.com/user-attachments/assets/03be8913-8410-40d3-9b51-5850a1406309" />
+<img width="216" height="420" alt="02-Screening-DASS21" src="https://github.com/user-attachments/assets/af4dabfd-befe-49ee-a873-53361f86bfba" />
+<img width="216" height="420" alt="03-Hasil Rekomendasi- AI Part 1" src="https://github.com/user-attachments/assets/ff3dcf8c-b60b-4465-8939-d9337f14fe93" />
+<img width="216" height="420" alt="04-Hasil Rekomendasi - AI - part2" src="https://github.com/user-attachments/assets/5a1ce12e-610f-4dc2-a786-04b29640922c" />
+<img width="216" height="420" alt="05- Chatbot-AI-Psikolog" src="https://github.com/user-attachments/assets/4362106e-2e10-45cf-94c2-392212e367c5" />
+<img width="216" height="420" alt="06-History-riwayat perjalan-dan-tingkat-stress" src="https://github.com/user-attachments/assets/bbb5aecf-75ed-40a0-84ee-7809c0fbe6e6" />
+<img width="216" height="420" alt="07-Setting" src="https://github.com/user-attachments/assets/4c32a25d-4094-439d-b319-0a9171b231a0" />
+<img width="216" height="420" alt="08-logs" src="https://github.com/user-attachments/assets/fa8c028d-bb95-4fa1-9cb0-cfd46200d309" />
