@@ -42,6 +42,8 @@ Aplikasi ini membantu pengguna:
 
 | **Langflow** | Orkestrasi prompting AI |
 <img width="1447" height="894" alt="gambar" src="https://github.com/user-attachments/assets/e9c84d35-9323-4978-8000-48645a8a0ccf" />
+<img width="1089" height="623" alt="gambar" src="https://github.com/user-attachments/assets/8c08ab32-d14e-40ed-b88a-6dee037edd56" />
+
 
 | **Ollama (Llama 3)** | LLM yang berjalan offline / on-premise |
 <img width="1081" height="633" alt="gambar" src="https://github.com/user-attachments/assets/6f7f5925-7137-4df7-b0eb-075be26360ba" />
