@@ -137,18 +137,19 @@ Proyek ini dikembangkan untuk keperluan Hackathon Hactiv8 x IBM.
 https://drive.google.com/drive/folders/1tG4IclGNoj9BBodQVQRdqTbDZ-Xi3tZT?usp=sharing
 
 ## Screenshoot Project
+<img width="200" height="405" alt="1-Pin_Login" src="https://github.com/user-attachments/assets/a8a3afd7-5655-45a2-9b9d-0afed829efa2" />
+<img width="200" height="405" alt="2-dashboard" src="https://github.com/user-attachments/assets/8592b6a0-54a4-4276-89ba-4d49c7f909a7" />
+<img width="200" height="405" alt="3-setting" src="https://github.com/user-attachments/assets/132f8e18-5cf5-4d04-924b-e8f7001c2f2a" />
+<img width="200" height="405" alt="4-logs" src="https://github.com/user-attachments/assets/520ec2b7-3aaa-4a34-a8e1-4b1a532edab4" />
+<img width="200" height="405" alt="5-dass21 form" src="https://github.com/user-attachments/assets/4554efd5-9cc3-4f10-b0b1-4497cfe5259a" />
+<img width="200" height="405" alt="6-recomendation ai 1" src="https://github.com/user-attachments/assets/7a4911fd-d828-4443-b230-b8932ada7f67" />
+<img width="200" height="405" alt="6-recomendation ai 2" src="https://github.com/user-attachments/assets/e7e515f0-eb33-4d1f-8568-7e86325e78c3" />
+<img width="200" height="405" alt="7-history" src="https://github.com/user-attachments/assets/eb2b101b-240a-43f7-8704-43d5f1e62d06" />
+<img width="200" height="405" alt="8-chat ai" src="https://github.com/user-attachments/assets/d8be91ea-4301-43c2-8d90-96d53d1efb65" />
+<img width="200" height="405" alt="9-notif" src="https://github.com/user-attachments/assets/b5e4dafb-e277-479d-8e8f-e9ef493f6a2b" />
 
 
 
 
 
 
-
-<img width="200" height="405" alt="01-Dashboard-AI-Recomendation" src="https://github.com/user-attachments/assets/03be8913-8410-40d3-9b51-5850a1406309" />
-<img width="200" height="405" alt="02-Screening-DASS21" src="https://github.com/user-attachments/assets/af4dabfd-befe-49ee-a873-53361f86bfba" />
-<img width="200" height="405" alt="03-Hasil Rekomendasi- AI Part 1" src="https://github.com/user-attachments/assets/ff3dcf8c-b60b-4465-8939-d9337f14fe93" />
-<img width="200" height="405" alt="04-Hasil Rekomendasi - AI - part2" src="https://github.com/user-attachments/assets/5a1ce12e-610f-4dc2-a786-04b29640922c" />
-<img width="200" height="405" alt="05- Chatbot-AI-Psikolog" src="https://github.com/user-attachments/assets/4362106e-2e10-45cf-94c2-392212e367c5" />
-<img width="200" height="405" alt="06-History-riwayat perjalan-dan-tingkat-stress" src="https://github.com/user-attachments/assets/bbb5aecf-75ed-40a0-84ee-7809c0fbe6e6" />
-<img width="200" height="405" alt="07-Setting" src="https://github.com/user-attachments/assets/4c32a25d-4094-439d-b319-0a9171b231a0" />
-<img width="200" height="405" alt="08-logs" src="https://github.com/user-attachments/assets/fa8c028d-bb95-4fa1-9cb0-cfd46200d309" />
