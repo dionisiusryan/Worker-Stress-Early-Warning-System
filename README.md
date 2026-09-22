@@ -38,11 +38,25 @@ Aplikasi ini membantu pengguna:
 | Komponen | Peran |
 |---|---|
 | **IBM BOB** | Platform pembuat kode (code generation) |
+<img width="1837" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/94cdd9ee-2c06-42f8-92af-de27641de0f4" />
+
 | **Langflow** | Orkestrasi prompting AI |
+<img width="1447" height="894" alt="gambar" src="https://github.com/user-attachments/assets/e9c84d35-9323-4978-8000-48645a8a0ccf" />
+
 | **Ollama (Llama 3)** | LLM yang berjalan offline / on-premise |
+<img width="1081" height="633" alt="gambar" src="https://github.com/user-attachments/assets/6f7f5925-7137-4df7-b0eb-075be26360ba" />
+
 | **Flutter** | Front-end aplikasi mobile |
+
+<img width="200" height="405" alt="01-Dashboard-AI-Recomendation" src="https://github.com/user-attachments/assets/dbf6f840-9330-437a-9249-b09b25c87c67" />
+<img width="200" height="405" alt="02-Screening-DASS21" src="https://github.com/user-attachments/assets/3f143cd1-ba5d-48eb-8cc9-12aa777a3f35" />
+<img width="200" height="405" alt="03-Hasil Rekomendasi- AI Part 1" src="https://github.com/user-attachments/assets/2c931a33-72ef-4d16-9c04-7b880c5e7c4f" />
+
 | **FastAPI (Python)** | Back-end |
+<img width="1245" height="1008" alt="gambar" src="https://github.com/user-attachments/assets/9b98226a-4080-4442-b5fb-8341221fffc2" />
+
 | **Android Studio** | Build APK |
+<img width="1836" height="1079" alt="gambar" src="https://github.com/user-attachments/assets/05849dcf-ed96-4493-aaf7-79bc6342df23" />
 
 ### Alur Integrasi
 
