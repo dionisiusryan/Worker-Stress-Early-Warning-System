@@ -45,7 +45,7 @@ Aplikasi ini membantu pengguna:
 <img width="1089" height="623" alt="gambar" src="https://github.com/user-attachments/assets/8c08ab32-d14e-40ed-b88a-6dee037edd56" />
 
 
-| **Ollama (Llama 3)** | LLM yang berjalan offline / on-premise |
+| **Ollama (gemma2:9b)** | LLM yang berjalan offline / on-premise |
 <img width="1081" height="633" alt="gambar" src="https://github.com/user-attachments/assets/6f7f5925-7137-4df7-b0eb-075be26360ba" />
 
 | **Flutter** | Front-end aplikasi mobile |
